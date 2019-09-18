@@ -1,0 +1,27 @@
+title: Dichter bij De Vader
+email: harmp98@gmail.com
+description: >-
+  Wil je God beter leren kennen maar weet je niet goed hoe?
+  Met behulp van een korte overdenking en gebed help ik je antwoord te vinden op herkenbare vragen.
+  De onderwerpen varieren van de echte basis tot diepgaande en persoonlijke onderwerpen.
+baseurl: "/blog"
+url: "HarmPrins.nl"
+
+github_username:  Harmp
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
