@@ -1,0 +1,24 @@
+.tooltip {
+  cursor: pointer;
+  position: relative;
+  font-size: 0.8rem;
+  font-style: italic;
+}
+
+.tooltip .tooltiptext {
+  background-color: #F0F0F0;
+  color: #000;
+  position: absolute;
+  left: -80px;
+  top: 21px;
+  border-radius: 3px;
+  padding: 0.8rem;
+  width: 160px;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+.tooltip:hover .tooltiptext {
+  opacity: 1;
+  transition: opacity 0.75s ease;
+}
