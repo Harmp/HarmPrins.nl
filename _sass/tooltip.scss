@@ -1,31 +1,30 @@
 .tooltip {
   position: relative;
   font-size: 0.8rem;
-}
 
-.tooltip .tooltiptext {
-  background-color: #F0F0F0;
-  color: #000000;
-  position: absolute;
-  left: -100px;
-  top: 21px;
-  border-radius: 2px;
-  padding: 0.7rem;
-  padding-top: 0.5rem;
-  padding-bottom: 0.6rem;
-  width: 200px;
-  box-shadow: 1px 2px 4px grey;
-  opacity: 0;
-  transition: opacity 0.5s ease;
-}
+  .tooltipimage {
+    top: -2px;
+    height: 1rem;
+    cursor: pointer;
+  }
 
-.tooltip .tooltipimage {
-  position: relative;
-  top: -2px;
-  height: 1rem;
-  cursor: pointer;
-}
+  .tooltiptext {
+    background-color: #F0F0F0;
+    color: #000000;
+    position: absolute;
+    left: -100px;
+    top: 21px;
+    width: 200px;
+    padding: 0.5rem 0.7rem 0.6rem;
+    border-radius: 2px;
+    box-shadow: 1px 2px 4px grey;
+    opacity: 0;
+    transition: display, opacity 0.5s ease;
+    z-index: 10;
+  }
 
-.tooltip:hover .tooltiptext:not(:hover) {
-  opacity: 1;
+  &:hover .tooltiptext:not(:hover) {
+    display: unset;
+    opacity: 1;
+  }
 }
