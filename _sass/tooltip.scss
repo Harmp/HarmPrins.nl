@@ -1,24 +1,28 @@
 .tooltip {
-  cursor: pointer;
   position: relative;
   font-size: 0.8rem;
-  font-style: italic;
 }
 
 .tooltip .tooltiptext {
   background-color: #F0F0F0;
-  color: #000;
+  color: #000000;
   position: absolute;
-  left: -80px;
+  left: -100px;
   top: 21px;
-  border-radius: 3px;
-  padding: 0.8rem;
-  width: 160px;
+  border-radius: 2px;
+  padding: 0.7rem;
+  width: 200px;
   opacity: 0;
   transition: opacity 0.5s ease;
 }
 
-.tooltip:hover .tooltiptext {
+.tooltip .tooltipimage {
+  position: relative;
+  top: -2px;
+  height: 1rem;
+  cursor: pointer;
+}
+
+.tooltip:hover .tooltiptext:not(:hover) {
   opacity: 1;
-  transition: opacity 0.75s ease;
 }
