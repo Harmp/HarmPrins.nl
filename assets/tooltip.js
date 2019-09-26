@@ -16,16 +16,14 @@ window.onload = function() {
 }
 
 function onTooltipMouseOver() {
-	console.log("Mouseover");
 	// Prevent textbox being defaulted if mouse is over again
-	/*try {*/ clearTimeout(this.mouseOutTimeout);/* } catch (err) {}*/
-	console.log(this.mouseOutTimeout);
+	try { clearTimeout(this.mouseOutTimeout); } catch (err) {}
+	
 	setCorrectTooltipPosition(this);
 }
 
 // Prevent tooltip from going off page
 function setCorrectTooltipPosition(current) {
-	console.log("Correct");
 	// Get positions of tooltip image and text
 	var tooltip = current.childNodes[1].getBoundingClientRect();
 	var tooltip_text = current.childNodes[3].getBoundingClientRect();
@@ -43,19 +41,16 @@ function setCorrectTooltipPosition(current) {
 }
 
 function onTooltipMouseOut() {
-	console.log("Out");
 	// Keep current tooltip for reference in timeout
 	var current = this;
 	// Wait until after fade out transition
 	this.mouseOutTimeout = setTimeout(function() {
-		console.log("Timeout")
 		setDefaultTooltipPosition(current);
 	}, 500);
 }
 
 // Defaults tooltip to the left. Prevents page from becoming wider than it has to be, which prevents bugs in tooltip position calculation
 function setDefaultTooltipPosition(current) {
-	console.log("Default");
 	// Get positions of tooltip image and text
 	var tooltip = current.childNodes[1].getBoundingClientRect();
 	var tooltip_text = current.childNodes[3].getBoundingClientRect();
