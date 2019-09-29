@@ -12,6 +12,7 @@ linkedin_username: harmp98
 
 # Build settings
 permalink: /:year-:month-:day/:title
+show_excerpts: true
 theme: minima
 plugins:
   - jekyll-feed

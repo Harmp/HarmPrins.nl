@@ -1,12 +1,18 @@
 ---
 layout: post
-title: "Prioriteiten test"
+title: "Prioriteiten"
 date: 2019-09-19 16:00 +0200
 categories: [Leven met God]
-description: Dichter bij De Vader. Veel christenen hebben het verlangen om dichter bij God te zijn, om hem beter te leren kennen, hem meer te ervaren. Maar hoe? Het klinkt zo mooi, om elke dag met God te leven. Om alles met Hem te delen, de moeilijkste dingen, maar ook de mooiste dingen. Alleen soms lijkt dit zo ver weg, zo moeilijk. Hoe kan je dicht bij God leven, en wat moet je daarvoor doen?
+excerpt: Dichter naar God groeien, hoe doe je dat? Wat betekent het om God op nummer 1 te zetten?
 ---
 
-{{ page.description }}
+Dichter bij De Vader.
+Veel christenen hebben het verlangen om dichter bij God te zijn, om hem beter te leren kennen, hem meer te ervaren.
+Maar hoe?
+Het klinkt zo mooi, om elke dag met God te leven.
+Om alles met Hem te delen, de moeilijkste dingen, maar ook de mooiste dingen.
+Alleen soms lijkt dit zo ver weg, zo moeilijk.
+Hoe kan je dicht bij God leven, en wat moet je daarvoor doen?
 
 ### Overdenking
 
