@@ -11,6 +11,7 @@ github_username:  Harmp
 linkedin_username: harmp98
 
 # Build settings
+permalink: /:year-:month-:day/:title
 theme: minima
 plugins:
   - jekyll-feed
