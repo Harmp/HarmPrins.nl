@@ -10,9 +10,14 @@ email: harmp98@gmail.com
 github_username:  Harmp
 linkedin_username: harmp98
 
-# Build settings
+# Site settings
 permalink: /:year-:month-:day/:title
 show_excerpts: true
+header_pages:
+  - categories.markdown
+  - about.markdown
+
+# Build settings
 theme: minima
 plugins:
   - jekyll-feed

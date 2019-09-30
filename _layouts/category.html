@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+  
+  <a href="/">Terug naar alle posts</a><br>
+  <a href="/categories">Terug naar alle categorieën</a>
+  
+  <p>
+    {{ content }}
+  </p>
+
+  {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      <li>
+	    {% if post.categories contains page.category %}
+		  {% include post_preview.html %}
+		{% endif %}
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+
+</div>
