@@ -3,7 +3,7 @@ layout: post
 title: "Thuis komen bij de Vader"
 date: 2019-10-01 15:00 +0200
 categories: [Leven met God, VrijZijn]
-excerpt: 
+excerpt: Wat betekent het om bij God thuis te komen? En wanneer ben je bij Hem welkom?
 ---
 
 Thuis komen.
