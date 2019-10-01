@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Categorieën
+title: Posts per categorie
 permalink: /categories/
 ---
 
