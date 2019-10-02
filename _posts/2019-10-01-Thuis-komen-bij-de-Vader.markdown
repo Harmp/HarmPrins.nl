@@ -37,7 +37,7 @@ Ze verwijten Jezus dat hij 'slechte' mensen ontvangt
 Jezus' reactie is niet om te stoppen met 'slechte' mensen ontvangen.
 Nee, hij reageert met drie verhalen waar de farizeeërs over na kunnen denken.
 Het verhaal over het weggelopen schaap, de zoekgeraakte munt en de verloren zoon.
-En wat je in elk verhaal terug ziet is dat God er alles om geeft om te zorgen dat jij thuis komt bij Hem!
+En wat je in elk verhaal terug ziet is dat God alles geeft om te zorgen dat jij thuis komt bij Hem!
 Want bij Hem thuis is de plek waar jij hoort.
 Jezus is niet alleen gekomen voor de mensen die al bij Hem thuis zijn.
 Jezus is noujuist gekomen voor de mensen die nog dichter naar Hem kunnen groeien
@@ -49,4 +49,4 @@ Maar de Vader accepteert hem gelijk terug in de familie door hem de zegelring te
 Bij God ben je welkom, wat er ook gebeurt.
 Bij God kan je altijd thuis komen, hoe ver je ook afgedwaald bent.
 En bij God is het goed. Bij Hem kan je écht leven.
-Wat weerhoud jou ervan om thuis te komen bij de Vader?
+Wat weerhoud jou er nog van om thuis te komen bij de Vader?
