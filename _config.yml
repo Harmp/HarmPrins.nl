@@ -18,6 +18,6 @@ header_pages:
   - about.markdown
 
 # Build settings
-theme: minima
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
