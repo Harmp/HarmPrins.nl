@@ -22,7 +22,7 @@ Waar je zeker weet dat het gewaardeerd wordt dat je er bent.
 Voor sommigen zal dit heel normaal klinken, terwijl voor anderen dit bij een gedachte blijft.
 Maar wat ik je kan vertellen is dat het bij God precies zo is.
 Bij God ben je altijd welkom.
-God zal je altijd accepteren zoals je bent, en God waardeert het dat je bij Hem komt.
+God zal je altijd accepteren zoals je bent, en God waardeert het dat je bij Hem komt
 {% include tooltip.html content="En hij ging naar zijn vader terug. Toen hij nog ver weg was, zag zijn vader hem aankomen. Hij had medelijden met hem. Hij liep hem snel tegemoet, omhelsde hem en kuste hem" source="Luc. 15:20" translation="BB" %}.
 
 Thuis komen bij de vader is thuis komen op een plek vol liefde.
