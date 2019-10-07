@@ -12,6 +12,8 @@ window.onload = function() {
 		// Default tooltip text to the left
 		// Default css is in the middle in case no javascript is loaded
 		setDefaultTooltipPosition(tooltip);
+		// Set transition for tooltip (prevents transition running on page load)
+		tooltip.childNodes[3].style.transition = "z-index, opacity 0.3s ease"
 	})
 }
 
