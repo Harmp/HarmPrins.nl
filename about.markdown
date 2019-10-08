@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 Wil je God beter leren kennen maar weet je niet goed hoe?
-Met behulp van een korte overdenking en gebed help ik je antwoord te vinden op herkenbare vragen.
-De onderwerpen varieren van de echte basis tot diepgaande en persoonlijke onderwerpen.
+Met behulp van korte overdenkingen help ik je antwoord te vinden op herkenbare vragen.
+De onderwerpen variëren van de basis van het geloof tot diepgaande en persoonlijke onderwerpen.
 Als er onderwerpen zijn die je graag terug zou willen zien kan je <a href="mailto:{{ site.email }}">mij mailen</a>
 
 # Over Mij

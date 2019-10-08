@@ -20,7 +20,7 @@ Alles over de basis van het geloof.
     Leven met God
   </a>
 </h3>
-Hoe kan je je leven inrichten met en voor God? Wat voor stappen kan je hierin nemen?
+Hoe kan je jouw leven inrichten met en voor God? Wat voor stappen kan je hierin nemen?
 
 <h3 style="margin:0">
   <a class="post-link" href="moeilijke_tijden">
