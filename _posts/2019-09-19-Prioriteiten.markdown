@@ -14,8 +14,6 @@ Om alles met Hem te delen, de moeilijkste dingen, maar ook de mooiste dingen.
 Alleen soms lijkt dit zo ver weg, zo moeilijk.
 Hoe kan je dicht bij God leven, en wat kan je daarvoor doen?
 
-### Overdenking
-
 Het goede nieuws is dat God ditzelfde verlangen heeft 
 {% include tooltip.html content="Want al voordat Hij de wereld maakte, heeft Hij ons uitgekozen. Hij wilde dat we bij Hem zouden horen en dat we in Hem volmaakt zouden zijn. Hij houdt heel erg veel van ons." source="Ef. 1:4" translation="BB" %}.
 God wil graag bij je zijn.
