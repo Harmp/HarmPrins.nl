@@ -14,7 +14,7 @@ linkedin_username: HarmP98
 permalink: /:year-:month-:day/:title
 show_excerpts: true
 header_pages:
-  - categories.markdown
+  - categories/categories.markdown
   - about.markdown
 
 # Build settings
