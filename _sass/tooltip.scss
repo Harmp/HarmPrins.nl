@@ -34,6 +34,20 @@
   }
 }
 
+.link {
+  position: relative;
+  font-size: 0.8rem;
+  cursor: pointer;
+  display: inline-block;
+
+  .linkimage {
+    position: relative;
+    top: -2px;
+    height: 0.8rem;
+    z-index: 5;
+  }
+}
+
 .noSelect {
   -webkit-tap-highlight-color: transparent;
   -webkit-touch-callout: none;
