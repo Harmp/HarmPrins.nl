@@ -15,7 +15,7 @@ permalink: /:year-:month-:day/:title
 show_excerpts: true
 header_pages:
   - categories/categories.markdown
-  - about.markdown
+  - misc/about.markdown
 
 # Build settings
 theme: minima
