@@ -14,6 +14,7 @@ Wanneer er even niemand is de je vragen stelt.
 Wanneer je gewoon jezelf kan zijn en kan uitrusten van de dag.
 
 > "Thuis is de plek waar men zich vaak veilig en op zijn gemak voelt"
+{% include external-link.html link="https://nl.wikipedia.org/wiki/Thuis_(woning)" %}
 
 Wat is jouw thuis?
 Waar, of bij wie voel jij je echt veilig en op je gemak?
