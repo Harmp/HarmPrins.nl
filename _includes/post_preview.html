@@ -1,4 +1,4 @@
-<span class="post-meta">{% include date.html date = post.date %}</span>
+<span class="post-meta">{% include date.html date = post.date %}{% if post.week_nr and page.url == "/categories/vrijzijn" %} · week {{ post.week_nr }}{% endif %}</span>
 <h3 style="margin:0">
   <a class="post-link" href="{{ post.url | relative_url }}">
     {{ post.title | escape }}

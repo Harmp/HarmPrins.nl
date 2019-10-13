@@ -3,6 +3,7 @@ layout: post
 title: "Jezelf liefhebben als je naaste"
 date: 2019-10-10 17:00 +0200
 categories: [Leven met God, VrijZijn]
+week_nr: 1
 excerpt: Je naaste liefhebben is een belangrijk gebod in de bijbel. Maar houd je ook van jezelf?
 ---
 
