@@ -24,7 +24,7 @@ Voor sommigen zal dit heel normaal klinken, terwijl voor anderen dit bij een ged
 Maar wat ik je kan vertellen is dat het bij God precies zo is.
 Bij God ben je altijd welkom.
 God zal je altijd accepteren zoals je bent, en God waardeert het dat je bij Hem komt
-{% include tooltip.html content="En hij ging naar zijn vader terug. Toen hij nog ver weg was, zag zijn vader hem aankomen. Hij had medelijden met hem. Hij liep hem snel tegemoet, omhelsde hem en kuste hem" source="Luc. 15:20" translation="BB" %}.
+{% include bible-verse.html content="En hij ging naar zijn vader terug. Toen hij nog ver weg was, zag zijn vader hem aankomen. Hij had medelijden met hem. Hij liep hem snel tegemoet, omhelsde hem en kuste hem" source="Luc. 15:20" translation="BB" %}.
 
 Thuis komen bij de vader is thuis komen op een plek vol liefde.
 Thuis komen bij de vader is thuis komen op de plek waar je hoort.
@@ -34,7 +34,7 @@ Maar wat God je door Zijn woord duidelijk probeert te maken is dat je altijd wel
 
 In Lukas 15 is Jezus in gesprek met de Farizeeërs.
 Ze verwijten Jezus dat hij 'slechte' mensen ontvangt
-{% include tooltip.html content="De Farizeeërs en de wetgeleerden mopperden daarover. Ze zeiden: &quot;Die Man ontvangt slechte mensen en eet met hen&quot;" source="Luc. 15:2" translation="BB" %}.
+{% include bible-verse.html content="De Farizeeërs en de wetgeleerden mopperden daarover. Ze zeiden: &quot;Die Man ontvangt slechte mensen en eet met hen&quot;" source="Luc. 15:2" translation="BB" %}.
 Jezus' reactie is niet om te stoppen met 'slechte' mensen ontvangen.
 Nee, hij reageert met drie verhalen waar de farizeeërs over na kunnen denken.
 Het verhaal over het weggelopen schaap, de zoekgeraakte munt en de verloren zoon.
@@ -42,7 +42,7 @@ En wat je in elk verhaal terug ziet is dat God alles geeft om te zorgen dat jij 
 Want bij Hem thuis is de plek waar jij hoort.
 Jezus is niet alleen gekomen voor de mensen die al bij Hem thuis zijn.
 Jezus is noujuist gekomen voor de mensen die nog dichter naar Hem kunnen groeien
-{% include tooltip.html content="Gezonde mensen hebben geen dokter nodig, maar zieke mensen wél. Ik ben niet gekomen om goede mensen te roepen, maar om slechte mensen te zeggen dat ze moeten gaan leven zoals God het wil" source="Mar. 2:17" translation="BB" %}.
+{% include bible-verse.html content="Gezonde mensen hebben geen dokter nodig, maar zieke mensen wél. Ik ben niet gekomen om goede mensen te roepen, maar om slechte mensen te zeggen dat ze moeten gaan leven zoals God het wil" source="Mar. 2:17" translation="BB" %}.
 
 Thuis komen bij de vader is niet iets wat je hoeft te verdienen.
 De verloren zoon probeert het terug te verdienen door zichzelf als knecht aan te bieden.

@@ -8,12 +8,12 @@ excerpt: Je naaste liefhebben is een belangrijk gebod in de bijbel. Maar houd je
 ---
 
 Je kent de bekende tekst uit Marcus vast wel: "heb je naaste lief als jezelf"
-{% include tooltip.html content="Het op een na belangrijkste is dit: &quot;Heb uw naaste lief als uzelf&quot;" source="Marc. 12:31a" translation="NBV" %}.
+{% include bible-verse.html content="Het op een na belangrijkste is dit: &quot;Heb uw naaste lief als uzelf&quot;" source="Marc. 12:31a" translation="NBV" %}.
 In de tekst wordt de nadruk gelegd op dat het belangrijk is om de mensen om je heen met liefde te behandelen.
 In de bijbel is liefde enorm belangrijk.
 De liefde van God voor jou, jouw liefde voor God en de liefde van jou voor je omgeving.
 Zonder liefde heb je nergens wat aan
-{% include tooltip.html content="Stel dat ik de talen van de mensen en van de engelen kon spreken. Maar als ik dat zonder liefde deed, was het alleen maar lawaai. [...]" source="1 Kor. 13:1-3" translation="BB" %}.
+{% include bible-verse.html content="Stel dat ik de talen van de mensen en van de engelen kon spreken. Maar als ik dat zonder liefde deed, was het alleen maar lawaai. [...]" source="1 Kor. 13:1-3" translation="BB" %}.
 God vraagt jou daarom deze liefde te uiten naar de mensen om je heen en te leven vanuit deze onvoorwaardelijke liefde.
 
 Deze conclusie blijft het vaak bij.
