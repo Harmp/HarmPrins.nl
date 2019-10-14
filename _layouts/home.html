@@ -20,8 +20,12 @@ layout: default
       <li>
         {% include post_preview.html %}
       </li>
+	  {%- if forloop.index == 3 -%}
+	  <li>
+	    {% include signup.html %}
+	  </li>
+	  {%- endif -%}
       {%- endfor -%}
     </ul>
   {%- endif -%}
-
 </div>
