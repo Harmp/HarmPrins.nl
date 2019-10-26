@@ -52,3 +52,6 @@ Zeg het gewoon eens hardop: "Ik ben geliefd".
 God houdt enorm veel van jou, want Hij heeft jou gemaakt.
 God zal Zijn eigen kind nooit loslaten.
 Ook jou niet.
+
+> "Zelfs als ik door een diep, donker dal ga, ben ik nergens bang voor, want U bent bij mij."  
+> (Psalm 23:4a, BB)
