@@ -3,7 +3,7 @@ layout: post
 title: "Ik ben geliefd"
 date: 2019-10-26 21:30 +0200
 categories: [Moeilijke tijden, VrijZijn]
-week_nr: 3
+meeting: Les 3
 excerpt: Soms is het moeilijk te geloven dat je er toe doet. Maar God houdt van jou!
 ---
 

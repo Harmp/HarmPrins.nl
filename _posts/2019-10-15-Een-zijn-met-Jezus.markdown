@@ -3,7 +3,7 @@ layout: post
 title: "Één zijn met Jezus"
 date: 2019-10-16 15:00 +0200
 categories: [De basis, VrijZijn]
-week_nr: 2
+meeting: Les 2
 excerpt: Wat betekent het om één te zijn met Jezus? En waarom zou je één met Hem willen zijn? Wat veranderd er als je één bent met Jezus?
 ---
 
