@@ -25,7 +25,7 @@ Maar als het tóch goed is tussen ons en God, ongeacht of we nou wel of niet Zij
 Omdat ik geen antwoord had op deze vraag bleef ik maar gewoon de regels opvolgen.
 En elke keer als het niet lukte was ik weer teleurgesteld in mezelf.
 
-Totdat ik een geweldig voorbeeld hoorde.
+Totdat ik een geweldig voorbeeld hoorde (via Wilkin van de Kamp).
 Door dit voorbeeld ben ik op een heel andere, nieuwe manier naar de wet gaan kijken.
 En dit voorbeeld wil ik graag met je delen.
 
